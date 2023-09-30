@@ -1,0 +1,22 @@
+body {
+    width: 300px;
+    height: auto;
+    background-color: white;
+    text-align: center;
+}
+
+p {
+    display: inner-flex;
+    margin: 20px 5px;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}
+button{
+    background-color: green; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
